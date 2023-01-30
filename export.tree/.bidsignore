@@ -1,9 +1,0 @@
-*.par
-*.log
-*.json.gz
-**/anat/*scanphys*
-**/fmap/*scanphys*
-*.mat
-*.txt
-*.edf
-*.zip
